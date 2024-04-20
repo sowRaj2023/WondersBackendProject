@@ -1,0 +1,7 @@
+send req
+
+get http://localhost:3005/wonders/
+
+send req
+
+get http://localhost:3005/wonders/id/
